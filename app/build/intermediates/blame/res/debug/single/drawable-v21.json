@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mitrix/Documents/Android_Projects/DaxMath/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mitrix/.android/build-cache/fd1a93cf816f48c4894fafa31c8903a318ccbbde/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/mitrix/Documents/Android_Projects/DaxMath/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mitrix/.android/build-cache/fd1a93cf816f48c4894fafa31c8903a318ccbbde/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mitrix/Documents/Android_Projects/DaxMath/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/mitrix/.android/build-cache/fd1a93cf816f48c4894fafa31c8903a318ccbbde/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mitrix/Documents/Android_Projects/DaxMath/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mitrix/.android/build-cache/fd1a93cf816f48c4894fafa31c8903a318ccbbde/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
